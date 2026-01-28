@@ -1,0 +1,14 @@
+{
+  "name": "endfield-auto-daily",
+  "version": "1.0.0",
+  "description": "Easiest, full free, and no BS SKPORT Arknights: Endfield daily check-in using GitHub Actions",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sglkc",
+  "license": "MIT"
+}
